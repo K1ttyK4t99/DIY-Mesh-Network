@@ -9,3 +9,7 @@ After a lot of research, I found that OpenWRT doesn't work on this model of rout
 
 With that step out of the way, now I have to flash the router with DD-WRT follwing the instructions on this website:
 https://wiki.dd-wrt.com/wiki/index.php/How_To_Flash_the_WRT54Gv8
+
+Now that DD-WRT is flashed onto the router, I configured it to be on the same subnet with a static IP address of 192.168.1.2 on the same subnet as my main router running OpenWRT
+
+<img width="803" height="636" alt="Image" src="https://github.com/user-attachments/assets/8d6d3870-9303-430e-b9cf-6d7d118a5514" />
